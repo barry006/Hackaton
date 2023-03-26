@@ -37,7 +37,7 @@
                                     "nombre": 21
                                   },
                                   {
-                                    "surface totale nécessaire": 15
+                                    "surface totale necessaire": 15
                                   },
                                   {
                                     "poids total": 42
@@ -50,7 +50,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       7,
                                       8,
                                       9,
@@ -66,7 +66,7 @@
                                     "nombre": 660
                                   },
                                   {
-                                    "surface totale nécessaire": 15
+                                    "surface totale necessaire": 15
                                   },
                                   {
                                     "poids total": 42
@@ -80,7 +80,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -95,7 +95,7 @@
                                   {
                                     "nombre": 33
                                   },
-                                  "surface totale nécessaire :3",
+                                  "surface totale necessaire :3",
                                   "poids total :5",
                                   {
                                     "Plantation": [
@@ -103,7 +103,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       10,
                                       11,
@@ -118,7 +118,7 @@
                                     "nombre": 13
                                   },
                                   {
-                                    "surface totale nécessaire": 3
+                                    "surface totale necessaire": 3
                                   },
                                   {
                                     "poids total": 4.5
@@ -134,7 +134,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       3,
                                       4,
                                       5,
@@ -147,12 +147,12 @@
                                 ]
                               },
                               {
-                                "Blettes-poirées": [
+                                "Blettes-poirees": [
                                   {
                                     "nombre": 60
                                   },
                                   {
-                                    "surface totale nécessaire": 15
+                                    "surface totale necessaire": 15
                                   },
                                   {
                                     "poids total": 120
@@ -166,7 +166,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -182,7 +182,7 @@
                                     "nombre": 900
                                   },
                                   {
-                                    "surface totale nécessaire": 15
+                                    "surface totale necessaire": 15
                                   },
                                   "poids total :30",
                                   {
@@ -191,7 +191,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -201,12 +201,12 @@
                                 ]
                               },
                               {
-                                "Fèves": [
+                                "Feves": [
                                   {
                                     "nombre": 300
                                   },
                                   {
-                                    "surface totale nécessaire": 15
+                                    "surface totale necessaire": 15
                                   },
                                   {
                                     "poids total": 11.25
@@ -219,7 +219,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5
                                     ]
@@ -249,7 +249,7 @@
                                     "nombre": 132
                                   },
                                   {
-                                    "surface totale nécessaire": 33
+                                    "surface totale necessaire": 33
                                   },
                                   {
                                     "poids total": 105
@@ -271,7 +271,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -288,7 +288,7 @@
                                     "nombre": 200
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 20
@@ -301,7 +301,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6
                                     ]
@@ -331,7 +331,7 @@
                                     "nombre": 40
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 6
@@ -343,7 +343,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -359,7 +359,7 @@
                                     "nombre": 30
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 50
@@ -371,7 +371,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       10
                                     ]
@@ -384,7 +384,7 @@
                                     "nombre": 25
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 17
@@ -397,7 +397,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       9
                                     ]
@@ -410,7 +410,7 @@
                                     "nombre": 75
                                   },
                                   {
-                                    "surface totale nécessaire": 3
+                                    "surface totale necessaire": 3
                                   },
                                   {
                                     "poids total": 3
@@ -425,7 +425,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -442,7 +442,7 @@
                                     "nombre": 1200
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 40
@@ -454,7 +454,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -472,7 +472,7 @@
                                     "nombre": 7785
                                   },
                                   {
-                                    "surface totale nécessaire": 13
+                                    "surface totale necessaire": 13
                                   },
                                   {
                                     "poids total": 39
@@ -486,7 +486,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -521,7 +521,7 @@
                                     "nombre": 100
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 220
@@ -534,7 +534,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -551,7 +551,7 @@
                                     "nombre": 910
                                   },
                                   {
-                                    "surface totale nécessaire": 13
+                                    "surface totale necessaire": 13
                                   },
                                   {
                                     "poids total": 39
@@ -567,7 +567,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5,
                                       6,
@@ -587,7 +587,7 @@
                                     "nombre": 440
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 60
@@ -601,7 +601,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -634,7 +634,7 @@
                                     "nombre": 100
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 240
@@ -647,7 +647,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -678,7 +678,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -694,7 +694,7 @@
                                     "nombre": 390
                                   },
                                   {
-                                    "surface totale nécessaire": 13
+                                    "surface totale necessaire": 13
                                   },
                                   {
                                     "poids total": 13
@@ -707,7 +707,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       3,
                                       4,
                                       10,
@@ -723,7 +723,7 @@
                                 "nombre": 85
                               },
                               {
-                                "surface totale nécessaire": 20
+                                "surface totale necessaire": 20
                               },
                               {
                                 "poids total": 30
@@ -735,7 +735,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   10,
                                   11,
                                   12
@@ -764,7 +764,7 @@
                                     "nombre": 132
                                   },
                                   {
-                                    "surface totale nécessaire": 33
+                                    "surface totale necessaire": 33
                                   },
                                   {
                                     "poids total": 105
@@ -786,7 +786,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -803,7 +803,7 @@
                                     "nombre": 200
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 20
@@ -816,7 +816,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6
                                     ]
@@ -866,14 +866,14 @@
                           {
                             "plantes": [
                               {
-                                "Chicorée": [
+                                "Chicoree": [
                                   {
                                     "Monaco": [
                                       {
                                         "nombre": 15
                                       },
                                       {
-                                        "surface totale nécessaire": 2.5
+                                        "surface totale necessaire": 2.5
                                       },
                                       {
                                         "poids total": 15
@@ -888,7 +888,7 @@
                                         ]
                                       },
                                       {
-                                        "Récolte": [
+                                        "Recolte": [
                                           1,
                                           2,
                                           3,
@@ -900,12 +900,12 @@
                                     ]
                                   },
                                   {
-                                    "Bénéfine": [
+                                    "Benefine": [
                                       {
                                         "nombre": 15
                                       },
                                       {
-                                        "surface totale nécessaire": 2.5
+                                        "surface totale necessaire": 2.5
                                       },
                                       {
                                         "poids total": 15
@@ -921,7 +921,7 @@
                                         ]
                                       },
                                       {
-                                        "Récolte": [
+                                        "Recolte": [
                                           3,
                                           4,
                                           5,
@@ -936,12 +936,12 @@
                                     ]
                                   },
                                   {
-                                    "Rouge de Vérone": [
+                                    "Rouge de Verone": [
                                       {
                                         "nombre": 15
                                       },
                                       {
-                                        "surface totale nécessaire": 2.5
+                                        "surface totale necessaire": 2.5
                                       },
                                       {
                                         "poids total": 15
@@ -956,7 +956,7 @@
                                         ]
                                       },
                                       {
-                                        "Récolte": [
+                                        "Recolte": [
                                           1,
                                           2,
                                           3,
@@ -987,12 +987,12 @@
                           {
                             "plantes": [
                               {
-                                "Célérie branche": [
+                                "Celerie branche": [
                                   {
                                     "nombre": 25
                                   },
                                   {
-                                    "surface totale nécessaire": 5
+                                    "surface totale necessaire": 5
                                   },
                                   {
                                     "poids total": 25
@@ -1006,7 +1006,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       5,
                                       6,
@@ -1021,12 +1021,12 @@
                                 ]
                               },
                               {
-                                "Cébette": [
+                                "Cebette": [
                                   {
                                     "nombre": 20
                                   },
                                   {
-                                    "surface totale nécessaire": 2.5
+                                    "surface totale necessaire": 2.5
                                   },
                                   {
                                     "poids total": 5
@@ -1039,7 +1039,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       6,
                                       7,
@@ -1070,12 +1070,12 @@
                           {
                             "plantes": [
                               {
-                                "Céléri Rave": [
+                                "Celeri Rave": [
                                   {
                                     "nombre": 60
                                   },
                                   {
-                                    "surface totale nécessaire": 5
+                                    "surface totale necessaire": 5
                                   },
                                   {
                                     "poids total": 3
@@ -1089,7 +1089,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10,
@@ -1104,7 +1104,7 @@
                                     "nombre": 6.25
                                   },
                                   {
-                                    "surface totale nécessaire": 2.5
+                                    "surface totale necessaire": 2.5
                                   },
                                   {
                                     "poids total": 4.25
@@ -1117,7 +1117,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -1132,7 +1132,7 @@
                                     "nombre": 150
                                   },
                                   {
-                                    "surface totale nécessaire": 5
+                                    "surface totale necessaire": 5
                                   },
                                   {
                                     "poids total": 5
@@ -1145,7 +1145,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       3,
                                       4,
                                       5
@@ -1159,7 +1159,7 @@
                                     "nombre": 37
                                   },
                                   {
-                                    "surface totale nécessaire": 2.5
+                                    "surface totale necessaire": 2.5
                                   },
                                   {
                                     "poids total": 4.25
@@ -1170,7 +1170,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3
@@ -1201,7 +1201,7 @@
                                     "nombre": 112
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 12.75
@@ -1220,7 +1220,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -1262,7 +1262,7 @@
                                 "nombre": 120
                               },
                               {
-                                "surface totale nécessaire": 30
+                                "surface totale necessaire": 30
                               },
                               {
                                 "poids total": 95
@@ -1284,7 +1284,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   5,
                                   6,
                                   7,
@@ -1301,7 +1301,7 @@
                                 "nombre": 30
                               },
                               {
-                                "surface totale nécessaire": 1.5
+                                "surface totale necessaire": 1.5
                               },
                               {
                                 "poids total": 3
@@ -1314,7 +1314,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   5,
                                   6
                                 ]
@@ -1344,7 +1344,7 @@
                                 "nombre": 240
                               },
                               {
-                                "surface totale nécessaire": 20
+                                "surface totale necessaire": 20
                               },
                               {
                                 "poids total": 55
@@ -1359,7 +1359,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   5,
                                   6,
                                   7,
@@ -1377,7 +1377,7 @@
                                 "nombre": 660
                               },
                               {
-                                "surface totale nécessaire": 11
+                                "surface totale necessaire": 11
                               },
                               {
                                 "poids total": 22
@@ -1392,7 +1392,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   1,
                                   2,
                                   3,
@@ -1429,7 +1429,7 @@
                                     "nombre": 280
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 200
@@ -1446,7 +1446,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -1465,7 +1465,7 @@
                                     "nombre": 140
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 100
@@ -1482,7 +1482,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -1515,12 +1515,12 @@
                       {
                         "plantes": [
                           {
-                            "Mâche": [
+                            "Mache": [
                               {
                                 "nombre": 1240
                               },
                               {
-                                "surface totale nécessaire": 31
+                                "surface totale necessaire": 31
                               },
                               {
                                 "poids total": 31
@@ -1540,7 +1540,7 @@
                                 ]
                               },
                               {
-                                "Récolte": [
+                                "Recolte": [
                                   1,
                                   2,
                                   3,
@@ -1576,7 +1576,7 @@
                   },
                   {
                     "remarques": [
-                      "pas de rang indiquées, mais une temporalité \"à 3 ans\""
+                      "pas de rang indiquees, mais une temporalite \"a 3 ans\""
                     ]
                   },
                   {
@@ -1587,7 +1587,7 @@
                             "nombre": 8
                           },
                           {
-                            "surface totale nécessaire": 25
+                            "surface totale necessaire": 25
                           },
                           {
                             "poids total": 64
@@ -1598,7 +1598,7 @@
                             ]
                           },
                           {
-                            "Récolte": [
+                            "Recolte": [
                               10,
                               11
                             ]
@@ -1649,7 +1649,7 @@
                                     "nombre": 100
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 220
@@ -1662,7 +1662,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -1679,7 +1679,7 @@
                                     "nombre": 340
                                   },
                                   {
-                                    "surface totale nécessaire": 17
+                                    "surface totale necessaire": 17
                                   },
                                   {
                                     "poids total": 119
@@ -1694,7 +1694,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -1711,7 +1711,7 @@
                                     "nombre": 425
                                   },
                                   {
-                                    "surface totale nécessaire": 17
+                                    "surface totale necessaire": 17
                                   },
                                   {
                                     "poids total": 51
@@ -1723,7 +1723,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       7,
                                       8,
                                       9
@@ -1754,7 +1754,7 @@
                                     "nombre": 250
                                   },
                                   {
-                                    "surface totale nécessaire": 25
+                                    "surface totale necessaire": 25
                                   },
                                   {
                                     "poids total": 275
@@ -1767,7 +1767,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -1778,12 +1778,12 @@
                                 ]
                               },
                               {
-                                "Tétragone": [
+                                "Tetragone": [
                                   {
                                     "nombre": 3
                                   },
                                   {
-                                    "surface totale nécessaire": 2.5
+                                    "surface totale necessaire": 2.5
                                   },
                                   {
                                     "poids total": 7.5
@@ -1795,7 +1795,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8
@@ -1804,12 +1804,12 @@
                                 ]
                               },
                               {
-                                "Fèves": [
+                                "Feves": [
                                   {
                                     "nombre": 50
                                   },
                                   {
-                                    "surface totale nécessaire": 2.5
+                                    "surface totale necessaire": 2.5
                                   },
                                   {
                                     "poids total": 3
@@ -1821,7 +1821,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5
                                     ]
@@ -1851,7 +1851,7 @@
                                     "nombre": 20
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 60
@@ -1864,7 +1864,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10,
@@ -1880,7 +1880,7 @@
                                     "nombre": 37
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 6
@@ -1894,7 +1894,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -1903,12 +1903,12 @@
                                 ]
                               },
                               {
-                                "Fèves": [
+                                "Feves": [
                                   {
                                     "nombre": 150
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 9
@@ -1920,7 +1920,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5
                                     ]
@@ -1933,7 +1933,7 @@
                                     "nombre": 8900
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 60
@@ -1946,7 +1946,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -1978,7 +1978,7 @@
                                     "nombre": 40
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 16
@@ -1994,7 +1994,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       6,
@@ -2012,7 +2012,7 @@
                                     "nombre": 90
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 5.25
@@ -2024,7 +2024,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -2038,7 +2038,7 @@
                                     "nombre": 3337
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 22
@@ -2050,7 +2050,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -2081,7 +2081,7 @@
                                     "nombre": 200
                                   },
                                   {
-                                    "surface totale nécessaire": 20
+                                    "surface totale necessaire": 20
                                   },
                                   {
                                     "poids total": 60
@@ -2096,7 +2096,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       7,
                                       8,
@@ -2113,7 +2113,7 @@
                                     "nombre": 750
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 23
@@ -2127,7 +2127,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -2143,7 +2143,7 @@
                                     "nombre": 112
                                   },
                                   {
-                                    "surface totale nécessaire": 7.5
+                                    "surface totale necessaire": 7.5
                                   },
                                   {
                                     "poids total": 4.25
@@ -2155,7 +2155,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -2198,7 +2198,7 @@
                                     "nombre": 110
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 36
@@ -2215,7 +2215,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5,
                                       6,
@@ -2233,7 +2233,7 @@
                                     "nombre": 6
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 52.5
@@ -2246,7 +2246,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -2262,7 +2262,7 @@
                                     "nombre": 70
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 7
@@ -2275,7 +2275,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6
                                     ]
@@ -2292,7 +2292,7 @@
                                     "nombre": 120
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 7
@@ -2304,7 +2304,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -2318,7 +2318,7 @@
                                     "nombre": 5
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 21
@@ -2330,7 +2330,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -2345,7 +2345,7 @@
                                     "nombre": 150
                                   },
                                   {
-                                    "surface totale nécessaire": 13.5
+                                    "surface totale necessaire": 13.5
                                   },
                                   {
                                     "poids total": 23
@@ -2356,7 +2356,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -2371,12 +2371,12 @@
                           {
                             "3": [
                               {
-                                "Pâtisson": [
+                                "Patisson": [
                                   {
                                     "nombre": 10
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 30
@@ -2389,7 +2389,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10,
@@ -2404,7 +2404,7 @@
                                     "nombre": 9
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 6
@@ -2417,7 +2417,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -2433,7 +2433,7 @@
                                     "nombre": 150
                                   },
                                   {
-                                    "surface totale nécessaire": 13.5
+                                    "surface totale necessaire": 13.5
                                   },
                                   {
                                     "poids total": 23
@@ -2444,7 +2444,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -2464,7 +2464,7 @@
                                     "nombre": 50
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 110
@@ -2477,7 +2477,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       "6-11"
                                     ]
                                   }
@@ -2489,7 +2489,7 @@
                                     "nombre": 245
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 11
@@ -2505,7 +2505,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5,
                                       6,
@@ -2525,7 +2525,7 @@
                                     "nombre": 297
                                   },
                                   {
-                                    "surface totale nécessaire": 13.5
+                                    "surface totale necessaire": 13.5
                                   },
                                   {
                                     "poids total": 41
@@ -2539,7 +2539,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
@@ -2559,7 +2559,7 @@
                                     "nombre": 50
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 120
@@ -2572,7 +2572,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8,
@@ -2583,12 +2583,12 @@
                                 ]
                               },
                               {
-                                "Tétragone": [
+                                "Tetragone": [
                                   {
                                     "nombre": 4
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 10
@@ -2600,7 +2600,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       6,
                                       7,
                                       8
@@ -2609,12 +2609,12 @@
                                 ]
                               },
                               {
-                                "Fèves": [
+                                "Feves": [
                                   {
                                     "nombre": 70
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 2.5
@@ -2626,7 +2626,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       4,
                                       5
                                     ]
@@ -2639,7 +2639,7 @@
                                     "nombre": 110
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 17
@@ -2651,7 +2651,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       4,
                                       11,
@@ -2670,7 +2670,7 @@
                                     "nombre": 48
                                   },
                                   {
-                                    "surface totale nécessaire": 12
+                                    "surface totale necessaire": 12
                                   },
                                   {
                                     "poids total": 38
@@ -2691,7 +2691,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -2708,7 +2708,7 @@
                                     "nombre": 30
                                   },
                                   {
-                                    "surface totale nécessaire": 1.5
+                                    "surface totale necessaire": 1.5
                                   },
                                   {
                                     "poids total": 3
@@ -2721,7 +2721,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6
                                     ]
@@ -2738,7 +2738,7 @@
                                     "nombre": 120
                                   },
                                   {
-                                    "surface totale nécessaire": 10
+                                    "surface totale necessaire": 10
                                   },
                                   {
                                     "poids total": 7
@@ -2750,7 +2750,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       8,
                                       9,
                                       10
@@ -2764,7 +2764,7 @@
                                     "nombre": 5
                                   },
                                   {
-                                    "surface totale nécessaire": 3.5
+                                    "surface totale necessaire": 3.5
                                   },
                                   {
                                     "poids total": 21
@@ -2776,7 +2776,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       5,
                                       6,
                                       7,
@@ -2791,7 +2791,7 @@
                                     "nombre": 150
                                   },
                                   {
-                                    "surface totale nécessaire": 13.5
+                                    "surface totale necessaire": 13.5
                                   },
                                   {
                                     "poids total": 23
@@ -2802,7 +2802,7 @@
                                     ]
                                   },
                                   {
-                                    "Récolte": [
+                                    "Recolte": [
                                       1,
                                       2,
                                       3,
