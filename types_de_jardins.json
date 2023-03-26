@@ -2,7 +2,7 @@
   {
     "Types de jardins": [
       {
-        "Solanacées": [
+        "Solanacees": [
           "Aubergine",
           "Piment",
           "Tomates",
@@ -13,15 +13,15 @@
         "Verdures et racines": [
           "Basilic",
           "Betterave",
-          "Blette-poirée",
-          "Chicorée",
+          "Blette-poiree",
+          "Chicoree",
           "Carottes",
-          "Céléri branche",
+          "Celeri branche",
           "Coriandre",
           "Epinards",
           "Fenouil",
           "Laitue",
-          "Mâche",
+          "Meche",
           "Mesclun",
           "Origan",
           "Panais",
@@ -29,7 +29,7 @@
           "Sariette",
           "Scarole",
           "Scorsonere",
-          "Tétragone"
+          "Tetragone"
         ]
       },
       {
@@ -39,18 +39,18 @@
         ]
       },
       {
-        "Cucurbitacées / Crucifères / Brassicacées": [
+        "Cucurbitacees / Cruciferes / Brassicacees": [
           "Artichauts"
         ]
       },
       {
-        "Litiacées": [
+        "Litiacees": [
           "Echalottes",
           "Oignons",
           "Poireau",
           "Ciboulette",
-          "Cébette",
-          "Fêves",
+          "Cebette",
+          "Feves",
           "Haricot fil et rame",
           "Haricots grains",
           "Pois",
