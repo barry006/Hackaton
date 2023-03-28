@@ -1,0 +1,78 @@
+
+# HACKATON NSU Nice - PROJET - Les Potageurs
+
+- Objectif :
+
+    - Objectif fonctionnel :>
+        Nathalie dispose d'un terrain, qu'elle découpe en jardins.
+        Chaque jardin peut être découpé en zones et en rangs.
+        Nathalie maintient à la main un tableur excel dans lequel réside la configuration de chaque jardin, qui déterminer le nombre de zones et de rangs contenu.
+        L'objectif du projet est d'automatiser la création de ce tableau excel.
+        
+        [EDIT] Revu avec l'utilisatrice principale le 25/3
+        L'utilisateur veut un tableau excel en sortie reproduisant l'onglet Cultures par planche, du tableau initial fourni 
+        
+    - Objectif technique :>
+        - Produire un tableau Excel dont la structure est :
+            - Planche A:
+                - A FAIRE - déterminer le nombre idéal de zones et de rangs
+            - Planche B:
+                - A FAIRE - déterminer le nombre idéal de zones et de rangs
+            - Planche C:
+                - A FAIRE - déterminer le nombre idéal de zones et de rangs
+            - Planche D:
+                - A FAIRE - déterminer le nombre idéal de zones et de rangs 
+    
+- Planning :
+
+    - Jour 1 :>
+        - [x] FAIT - Prise en compte des données
+        - [x] FAIT - Objectif raffiné avec l'utilisatrice principale
+        - [x] FAIT - ATELIER - nettoyage et consolidation des données :
+            - output : https://github.com/guillaumefe/Hackaton/blob/main/data.yml
+            - output : https://github.com/guillaumefe/Hackaton/blob/main/data.json
+        - [x] FAIT - Mise à disposition d'un objet contenant les données 
+        - [x] FAIT - Mise en place de l'environnement, démarrage de l'UI
+        - [x] FAIT - Mise en place du github du projet https://github.com/guillaumefe/Hackaton pour héberger les données 
+        
+    - Jour 2 :>
+        - [ ] Interface utilisateur:
+            - URL - https://github.com/barry006/Hackaton
+            - INFO - Quelques bugs visuels résiduel mais le prototype est fonctionnel
+            - FAIT - Ecran 1:
+                - FAIT - Ajouter une Planche (morceau d'exploitation dans un jardin)
+                - FAIT - Pour chaque Planche demander la longueur et largeur 
+                - FAIT - Pour chaque Planche demander le nombre de rang souhaité pour la surface
+                - FAIT - Ajouter un bouton générer
+            - A FAIRE - (Optionnel) Ecran 2:
+                - A FAIRE - Affichage des données 
+        
+        - [ ] Backend : 
+            - EN COURS - Fonction qui reconstruit l'objet de référence en fonction de l'entrée utilisateur
+            - EN COURS - Construction de la fonction qui exporte le tableau cible 
+                
+- Foire aux questions : >
+
+    - Qu'est ce le projet livre :
+        - Des données, propres et bien rangées, pour un projet futur 
+        - Une interface utilisateur en Unity construite à 50%
+    
+    - Qu'est-ce qui manque :
+        - L'algorithme qui converti les entrées utilisateurs en modification de l'objet de référence 
+        - L'algorithme qui convertit l'objet de référence en tableau excel, en suivant le modèle demandé
+        
+    - Quel est le diagnostic du projet :
+        - La stack Unity n'était pas adaptée pour le projet:
+            - Ce choix était lié à la rapidité d'execution pour utiliser cet outil dans l'équipe
+            - Ce choix a l'avantage aussi de rendre l'application disponible sur ordinateur mais aussi smartphones et tablettes 
+            - Mais l'intégration avec Excel et JSON s'est avérée compliqué, ce qui a freiné le projet dans son ensemble
+        
+    - Comment utiliser l'interface utilisateur fournie  :
+        - Ajouter une planche 
+        - Pour chaque planche récupérer longueur et largeur 
+        - Récuperer nombre de rang souhaité pour la surface
+        - Cliquer sur le bouton génére
+    
+    - Ou est la documentation du projet :
+        - https://github.com/guillaumefe/Hackaton 
+    

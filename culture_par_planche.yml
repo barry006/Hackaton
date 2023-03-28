@@ -1,0 +1,1301 @@
+- Culture par planche :
+    - Planche A:
+        - surface:
+            - "2":
+                - 198
+        - Zones:
+            - "1":
+                - Rangs:
+                    - "1":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Aubergine:
+                                - nombre: 21
+                                - surface totale nécessaire: 15
+                                - poids total: 42
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 1
+                            - Betteraves:
+                                - nombre: 660
+                                - surface totale nécessaire: 15
+                                - poids total: 42
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Epinards:
+                                - nombre: 33
+                                - surface totale nécessaire :3
+                                - poids total :5
+                                - Plantation:
+                                    - 10
+                                - Récolte:
+                                    - 1
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Pois:
+                                - nombre: 13
+                                - surface totale nécessaire: 3
+                                - poids total: 4.5
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Blettes-poirées:
+                                - nombre: 60
+                                - surface totale nécessaire: 15
+                                - poids total: 120
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                            - Navet:
+                                - nombre: 900
+                                - surface totale nécessaire: 15
+                                - poids total :30
+                                - Plantation:
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                            - Fèves:
+                                - nombre: 300
+                                - surface totale nécessaire: 15
+                                - poids total: 11.25
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 4
+                                    - 5
+                    - "2":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Fraise:
+                                - nombre: 132
+                                - surface totale nécessaire: 33
+                                - poids total: 105
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Ail:
+                                - nombre: 200
+                                - surface totale nécessaire: 10
+                                - poids total: 20
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                    - "3":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Piments:
+                                - nombre: 40
+                                - surface totale nécessaire: 10
+                                - poids total: 6
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Poivrons:
+                                - nombre: 30
+                                - surface totale nécessaire: 10
+                                - poids total: 50
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                - Récolte:
+                                    - 6
+                                    - 10
+                            - Haricots fil et rame:
+                                - nombre: 25
+                                - surface totale nécessaire: 10
+                                - poids total: 17
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 6
+                                    - 9
+                            - Mesclun:
+                                - nombre: 75
+                                - surface totale nécessaire: 3
+                                - poids total: 3
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Navet:
+                                - nombre: 1200
+                                - surface totale nécessaire: 20
+                                - poids total: 40
+                                - Plantation:
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 11
+                                    - 12
+                            - Radis:
+                                - nombre: 7785
+                                - surface totale nécessaire: 13
+                                - poids total: 39
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 11
+                                    - 12
+                    - "4":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Tomates:
+                                - nombre: 100
+                                - surface totale nécessaire: 20
+                                - poids total: 220
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                            - Carottes:
+                                - nombre: 910
+                                - surface totale nécessaire: 13
+                                - poids total: 39
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Oignons:
+                                - nombre: 440
+                                - surface totale nécessaire: 20
+                                - poids total: 60
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                    - "5":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Tomates cerises:
+                                - nombre: 100
+                                - surface totale nécessaire: 20
+                                - poids total: 240
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Concombre:
+                                - nombre: 13
+                                - plans: 13
+                                - INFO - 1 plante == 1 plan produit N concombres
+                                - VOIR - rendement d'un plan de concombre
+                                - poids total: 195
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Roquette:
+                                - nombre: 390
+                                - surface totale nécessaire: 13
+                                - poids total: 13
+                                - Plantation:
+                                    - 8
+                                    - 9
+                                    - 10
+                                - Récolte:
+                                    - 3
+                                    - 4
+                                    - 10
+                                    - 11
+                            - Pois: null
+                            - nombre: 85
+                            - surface totale nécessaire: 20
+                            - poids total: 30
+                            - Plantation:
+                                - 9
+                                - 10
+                            - Récolte:
+                                - 10
+                                - 11
+                                - 12
+                    - "6":
+                        - surface:
+                            - "2":
+                                - 33
+                        - plantes:
+                            - Fraise:
+                                - nombre: 132
+                                - surface totale nécessaire: 33
+                                - poids total: 105
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Ail:
+                                - nombre: 200
+                                - surface totale nécessaire: 10
+                                - poids total: 20
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+    - Planche B:
+        - surface:
+            - "2":
+                - 156
+        - Zones:
+            - "1":
+                - Rangs:
+                    - "1":
+                        - surface:
+                            - "2":
+                                - 7.5
+                        - plantes:
+                            - Chicorée:
+                                - Monaco:
+                                    - nombre: 15
+                                    - surface totale nécessaire: 2.5
+                                    - poids total: 15
+                                    - Plantation:
+                                        - 5
+                                        - 6
+                                        - 7
+                                        - 8
+                                        - 9
+                                    - Récolte:
+                                        - 1
+                                        - 2
+                                        - 3
+                                        - 10
+                                        - 11
+                                        - 12
+                                - Bénéfine:
+                                    - nombre: 15
+                                    - surface totale nécessaire: 2.5
+                                    - poids total: 15
+                                    - Plantation:
+                                        - 1
+                                        - 2
+                                        - 3
+                                        - 4
+                                        - 5
+                                        - 6
+                                    - Récolte:
+                                        - 3
+                                        - 4
+                                        - 5
+                                        - 6
+                                        - 7
+                                        - 8
+                                        - 9
+                                        - 10
+                                        - 11
+                                - Rouge de Vérone:
+                                    - nombre: 15
+                                    - surface totale nécessaire: 2.5
+                                    - poids total: 15
+                                    - Plantation:
+                                        - 5
+                                        - 6
+                                        - 7
+                                        - 8
+                                        - 9
+                                    - Récolte:
+                                        - 1
+                                        - 2
+                                        - 3
+                                        - 10
+                                        - 11
+                                        - 12
+                    - "2":
+                        - surface:
+                            - "2":
+                                - 7.5
+                        - plantes:
+                            - Célérie branche:
+                                - nombre: 25
+                                - surface totale nécessaire: 5
+                                - poids total: 25
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 1
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Cébette:
+                                - nombre: 20
+                                - surface totale nécessaire: 2.5
+                                - poids total: 5
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                - Récolte:
+                                    - 1
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                    - "3":
+                        - surface:
+                            - "2":
+                                - 7.5
+                        - plantes:
+                            - Céléri Rave:
+                                - nombre: 60
+                                - surface totale nécessaire: 5
+                                - poids total: 3
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                            - Haricots fil et rame:
+                                - nombre: 6.25
+                                - surface totale nécessaire: 2.5
+                                - poids total: 4.25
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Roquette:
+                                - nombre: 150
+                                - surface totale nécessaire: 5
+                                - poids total: 5
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                - Récolte:
+                                    - 3
+                                    - 4
+                                    - 5
+                            - Epinards:
+                                - nombre: 37
+                                - surface totale nécessaire: 2.5
+                                - poids total: 4.25
+                                - Plantation:
+                                    - 10
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                    - "4":
+                        - surface:
+                            - "2":
+                                - 7.5
+                        - plantes:
+                            - Epinards:
+                                - nombre: 112
+                                - surface totale nécessaire: 7.5
+                                - poids total: 12.75
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 10
+                                    - 12
+            - "2":
+                - "1":
+                    - surface:
+                        - "2":
+                            - 31.5
+                    - plantes:
+                        - Fraise:
+                            - nombre: 120
+                            - surface totale nécessaire: 30
+                            - poids total: 95
+                            - Plantation:
+                                - 1
+                                - 2
+                                - 3
+                                - 4
+                                - 5
+                                - 6
+                                - 7
+                                - 8
+                                - 9
+                                - 10
+                                - 11
+                                - 12
+                            - Récolte:
+                                - 5
+                                - 6
+                                - 7
+                                - 8
+                                - 9
+                                - 10
+                        - Ail:
+                            - nombre: 30
+                            - surface totale nécessaire: 1.5
+                            - poids total: 3
+                            - Plantation:
+                                - 10
+                                - 11
+                                - 12
+                            - Récolte:
+                                - 5
+                                - 6
+                - "2":
+                    - surface:
+                        - "2":
+                            - 31.5
+                    - plantes:
+                        - Fenouil Rondo:
+                            - nombre: 240
+                            - surface totale nécessaire: 20
+                            - poids total: 55
+                            - Plantation:
+                                - 3
+                                - 4
+                                - 5
+                                - 6
+                                - 7
+                            - Récolte:
+                                - 5
+                                - 6
+                                - 7
+                                - 8
+                                - 9
+                                - 10
+                                - 11
+                        - Navet:
+                            - nombre: 660
+                            - surface totale nécessaire: 11
+                            - poids total: 22
+                            - Plantation:
+                                - 8
+                                - 9
+                                - 10
+                                - 11
+                                - 12
+                            - Récolte:
+                                - 1
+                                - 2
+                                - 3
+                                - 4
+                                - 5
+                                - 11
+                                - 12
+                - "3":
+                    - surface:
+                        - "2":
+                            - 31.5
+                    - plantes:
+                        - Laitue:
+                            - Lollo Rossa:
+                                - nombre: 280
+                                - surface totale nécessaire: 20
+                                - poids total: 200
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Gatsby:
+                                - nombre: 140
+                                - surface totale nécessaire: 10
+                                - poids total: 100
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                - "4":
+                    - surface:
+                        - "2":
+                            - 31.5
+                    - plantes:
+                        - Mâche:
+                            - nombre: 1240
+                            - surface totale nécessaire: 31
+                            - poids total: 31
+                            - Plantation:
+                                - 1
+                                - 2
+                                - 3
+                                - 4
+                                - 5
+                                - 6
+                                - 7
+                                - 8
+                                - 9
+                                - 10
+                            - Récolte:
+                                - 1
+                                - 2
+                                - 3
+                                - 4
+                                - 5
+                                - 6
+                                - 7
+                                - 8
+                                - 9
+                                - 10
+                                - 11
+                                - 12
+            - "3":
+                - surface:
+                    - "2":
+                        - 20
+                - remarques:
+                    - pas de rang indiquées, mais une temporalité "à 3 ans"
+                - plantes:
+                    - Kiwi:
+                        - nombre: 8
+                        - surface totale nécessaire: 25
+                        - poids total: 64
+                        - Plantation:
+                            - 10
+                        - Récolte:
+                            - 10
+                            - 11
+    - Planche C:
+        - surface:
+            - "2":
+                - 138
+        - Zones:
+            - "1":
+                - Rangs:
+                    - "1":
+                        - surface:
+                            - "2":
+                                - 27.75
+                        - plantes:
+                            - Tomates:
+                                - nombre: 100
+                                - surface totale nécessaire: 20
+                                - poids total: 220
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                            - Panais:
+                                - nombre: 340
+                                - surface totale nécessaire: 17
+                                - poids total: 119
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Mesclun:
+                                - nombre: 425
+                                - surface totale nécessaire: 17
+                                - poids total: 51
+                                - Plantation:
+                                    - 7
+                                    - 8
+                                - Récolte:
+                                    - 7
+                                    - 8
+                                    - 9
+                    - "2":
+                        - surface:
+                            - "2":
+                                - 27.75
+                        - plantes:
+                            - Tomates cerises:
+                                - nombre: 250
+                                - surface totale nécessaire: 25
+                                - poids total: 275
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Tétragone:
+                                - nombre: 3
+                                - surface totale nécessaire: 2.5
+                                - poids total: 7.5
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                            - Fèves:
+                                - nombre: 50
+                                - surface totale nécessaire: 2.5
+                                - poids total: 3
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                - Récolte:
+                                    - 4
+                                    - 5
+                    - "3":
+                        - surface:
+                            - "2":
+                                - 27.75
+                        - plantes:
+                            - Courge:
+                                - nombre: 20
+                                - surface totale nécessaire: 20
+                                - poids total: 60
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Mais:
+                                - nombre: 37
+                                - surface totale nécessaire: 7.5
+                                - poids total: 6
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Fèves:
+                                - nombre: 150
+                                - surface totale nécessaire: 7.5
+                                - poids total: 9
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                - Récolte:
+                                    - 4
+                                    - 5
+                            - Radis:
+                                - nombre: 8900
+                                - surface totale nécessaire: 20
+                                - poids total: 60
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                    - "4":
+                        - surface:
+                            - "2":
+                                - 27.75
+                        - plantes:
+                            - Brocolis:
+                                - nombre: 40
+                                - surface totale nécessaire: 20
+                                - poids total: 16
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Haricots borlotto:
+                                - nombre: 90
+                                - surface totale nécessaire: 7.5
+                                - poids total: 5.25
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Radis:
+                                - nombre: 3337
+                                - surface totale nécessaire: 7.5
+                                - poids total: 22
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                    - "5":
+                        - surface:
+                            - "2":
+                                - 27.75
+                        - plantes:
+                            - Chou fleurs:
+                                - nombre: 200
+                                - surface totale nécessaire: 20
+                                - poids total: 60
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                - Récolte:
+                                    - 1
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 12
+                            - Oignons:
+                                - nombre: 750
+                                - surface totale nécessaire: 7.5
+                                - poids total: 23
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                            - Epinards:
+                                - nombre: 112
+                                - surface totale nécessaire: 7.5
+                                - poids total: 4.25
+                                - Plantation:
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+    - Planche D:
+        - surface:
+            - "2":
+                - 94.5
+            - Zones:
+                - "1":
+                    - Rangs:
+                        - "1":
+                            - Chou-rave:
+                                - nombre: 110
+                                - surface totale nécessaire: 10
+                                - poids total: 36
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Concombre:
+                                - nombre: 6
+                                - surface totale nécessaire: 3.5
+                                - poids total: 52.5
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Ail:
+                                - nombre: 70
+                                - surface totale nécessaire: 3.5
+                                - poids total: 7
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                        - "2":
+                            - Haricots borlotto:
+                                - nombre: 120
+                                - surface totale nécessaire: 10
+                                - poids total: 7
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Courgette:
+                                - nombre: 5
+                                - surface totale nécessaire: 3.5
+                                - poids total: 21
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                            - Epinards:
+                                - nombre: 150
+                                - surface totale nécessaire: 13.5
+                                - poids total: 23
+                                - Plantation:
+                                    - 9
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 11
+                                    - 12
+                        - "3":
+                            - Pâtisson:
+                                - nombre: 10
+                                - surface totale nécessaire: 10
+                                - poids total: 30
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                            - Haricots fil et rame:
+                                - nombre: 9
+                                - surface totale nécessaire: 3.5
+                                - poids total: 6
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                            - Epinards:
+                                - nombre: 150
+                                - surface totale nécessaire: 13.5
+                                - poids total: 23
+                                - Plantation:
+                                    - 9
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 11
+                                    - 12
+                        - "4":
+                            - Tomates:
+                                - nombre: 50
+                                - surface totale nécessaire: 10
+                                - poids total: 110
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6-11
+                            - Carottes:
+                                - nombre: 245
+                                - surface totale nécessaire: 3.5
+                                - poids total: 11
+                                - Plantation:
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                - Récolte:
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 11
+                                    - 12
+                            - Oignon:
+                                - nombre: 297
+                                - surface totale nécessaire: 13.5
+                                - poids total: 41
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                        - "5":
+                            - Tomates cerises:
+                                - nombre: 50
+                                - surface totale nécessaire: 10
+                                - poids total: 120
+                                - Plantation:
+                                    - 3
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Tétragone:
+                                - nombre: 4
+                                - surface totale nécessaire: 3.5
+                                - poids total: 10
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 6
+                                    - 7
+                                    - 8
+                            - Fèves:
+                                - nombre: 70
+                                - surface totale nécessaire: 3.5
+                                - poids total: 2.5
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                - Récolte:
+                                    - 4
+                                    - 5
+                            - Epinards:
+                                - nombre: 110
+                                - surface totale nécessaire: 10
+                                - poids total: 17
+                                - Plantation:
+                                    - 9
+                                    - 10
+                                - Récolte:
+                                    - 1
+                                    - 4
+                                    - 11
+                                    - 12
+                        - "6":
+                            - Fraises:
+                                - nombre: 48
+                                - surface totale nécessaire: 12
+                                - poids total: 38
+                                - Plantation:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 4
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Ail:
+                                - nombre: 30
+                                - surface totale nécessaire: 1.5
+                                - poids total: 3
+                                - Plantation:
+                                    - 10
+                                    - 11
+                                    - 12
+                                - Récolte:
+                                    - 5
+                                    - 6
+                        - "7":
+                            - Haricots borlotto:
+                                - nombre: 120
+                                - surface totale nécessaire: 10
+                                - poids total: 7
+                                - Plantation:
+                                    - 5
+                                    - 6
+                                - Récolte:
+                                    - 8
+                                    - 9
+                                    - 10
+                            - Courgette:
+                                - nombre: 5
+                                - surface totale nécessaire: 3.5
+                                - poids total: 21
+                                - Plantation:
+                                    - 4
+                                    - 5
+                                - Récolte:
+                                    - 5
+                                    - 6
+                                    - 7
+                                    - 8
+                            - Epinards:
+                                - nombre: 150
+                                - surface totale nécessaire: 13.5
+                                - poids total: 23
+                                - Plantation:
+                                    - 9
+                                - Récolte:
+                                    - 1
+                                    - 2
+                                    - 3
+                                    - 11
+                                    - 12
