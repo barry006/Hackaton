@@ -53,8 +53,8 @@ public class Enter : MonoBehaviour
         {
             largeur.text = "0";
         }
-        dontDestroy.longueur = float.Parse(longueur.text);
-        dontDestroy.largeur = float.Parse(largeur.text);
+       // dontDestroy.longueur = float.Parse(longueur.text);
+       // dontDestroy.largeur = float.Parse(largeur.text);
         SceneManager.LoadScene(sceneName);
 
     }

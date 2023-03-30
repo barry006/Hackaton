@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Enter/enter.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/SceneNew/SelectJardin.unity
+    guid: 9dea3f5d2df318b4bb9d7a09a9404930
   - enabled: 1
-    path: Assets/Scenes/Persistance.unity
-    guid: 5abe5716a04ecc34b969ca5af33d5743
-  - enabled: 1
-    path: Assets/Scenes/terrain/terrain.unity
-    guid: 71c772d92e9d72b45ad14210c2fbf017
+    path: Assets/Scenes/SceneNew/data.unity
+    guid: 4904a641b97930e42b0b04b408bc9d88
   m_configObjects: {}

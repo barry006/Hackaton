@@ -13,9 +13,9 @@ public class StartTerrain : MonoBehaviour
         dontDestroy = FindObjectOfType<DontDestroy>();
 
 
-        Vector3 newScale = new Vector3(dontDestroy.longueur, dontDestroy.largeur, 1f);
+      //  Vector3 newScale = new Vector3(dontDestroy.longueur, dontDestroy.largeur, 1f);
 
-        imgTerrain.rectTransform.localScale = newScale;
+      //  imgTerrain.rectTransform.localScale = newScale;
 
 
 
